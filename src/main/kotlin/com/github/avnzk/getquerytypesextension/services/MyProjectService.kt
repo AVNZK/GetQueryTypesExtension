@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.avnzk.getquerytypesextension.services
 
+import com.github.avnzk.getquerytypesextension.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
